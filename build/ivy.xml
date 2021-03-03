@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.zxc" module="soraka" revision="1.0.2" status="integration" publication="20200615194237"/>
+  <info organisation="com.zxc" module="soraka" revision="1.0.2" status="integration" publication="20210303112512"/>
   <configurations>
     <conf name="annotationProcessor" visibility="private"/>
     <conf name="api" visibility="private" extends="compile"/>
